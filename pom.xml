@@ -43,7 +43,7 @@
         <java.version>17</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
-        <start-class>ke.co.phyno.learning.easy.rules.LearningEasyRulesApplication</start-class>
+        <start-class>ke.co.phyno.learning.easy.rules.EasyRulesApplication</start-class>
     </properties>
 
     <dependencies>
